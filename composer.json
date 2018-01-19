@@ -21,7 +21,6 @@
   "require": {
     "codeinwp/themeisle-sdk": "master",
     "codeinwp/templates-directory": "master",
-    "codeinwp/full-width-page-templates": "master",
     "codeinwp/themeisle-content-forms": "master"
   },
   "autoload": {
